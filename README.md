@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+* Aspiring computer science student
+* Football ("Soccer") | Chelsea
+* Currently learning C#
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=md5sha256)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md5sha256&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **md5sha256/md5sha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
