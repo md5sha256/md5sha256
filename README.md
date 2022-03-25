@@ -2,7 +2,8 @@
 
 * Aspiring computer science student
 * Football ("Soccer") | Chelsea
-* Currently learning C#
+* Currently learning C/C++
+* He/him
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=md5sha256)](https://github.com/anuraghazra/github-readme-stats)
 <br>
