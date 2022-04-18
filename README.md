@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Aspiring computer science student
+* HKU Engineering
 * Football ("Soccer") | Chelsea
 * Currently learning C/C++
 * He/him
