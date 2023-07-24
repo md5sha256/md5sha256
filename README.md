@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-* HKU Engineering
+* Computer Science student at Monash University
 * Football ("Soccer") | Chelsea
-* Currently learning C/C++
+* Currently learning JS/TS and C++
 * He/him
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=md5sha256)](https://github.com/anuraghazra/github-readme-stats)
